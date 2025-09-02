@@ -68,7 +68,7 @@ O **Conecta+** promove transformação real na vida de seus usuários, integrand
 ## 📄 Arquivo Completo em PDF
 Para acessar o relatório completo do projeto em PDF, clique no link abaixo:  
 
-[📎 Link para o PDF do Conecta+](COLE_AQUI_SEU_LINK)
+[📎 Link para o PDF do Conecta+](https://github.com/Bernardokrothh/desigualdade-digital/blob/main/A%20desigualdade%20digital%20impede%20o%20acesso%20a%20oportunidades%20educa.pdf)
 
 ---
 
